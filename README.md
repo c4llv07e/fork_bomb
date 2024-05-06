@@ -1,2 +1,2 @@
 # fork_bomb
-linux fork bomb - opens xedit
+script that opens xedit on repeat, hopefully crashes the system, nothing too harmfull. 
